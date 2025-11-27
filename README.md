@@ -13,5 +13,4 @@ This repository hosts the current public version of the paper.
 
 
 📬 Feedback
-
 If you'd like to comment, critique, or discuss the work, feel free to open an issue or contact me.
